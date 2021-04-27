@@ -1,0 +1,14 @@
+body {
+	background-color: yellow;
+}
+#mc {
+	border-width:10px;
+	border-style:ridge;
+}
+
+h1,h4 {
+	color: black;
+}
+#hop {
+    font-size: 40px;
+}
